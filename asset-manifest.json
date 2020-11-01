@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mbta/static/css/main.60166dbf.chunk.css",
+    "main.js": "/mbta/static/js/main.86407180.chunk.js",
+    "main.js.map": "/mbta/static/js/main.86407180.chunk.js.map",
+    "runtime-main.js": "/mbta/static/js/runtime-main.85ad2337.js",
+    "runtime-main.js.map": "/mbta/static/js/runtime-main.85ad2337.js.map",
+    "static/js/2.d49b35ea.chunk.js": "/mbta/static/js/2.d49b35ea.chunk.js",
+    "static/js/2.d49b35ea.chunk.js.map": "/mbta/static/js/2.d49b35ea.chunk.js.map",
+    "static/js/3.9b82f864.chunk.js": "/mbta/static/js/3.9b82f864.chunk.js",
+    "static/js/3.9b82f864.chunk.js.map": "/mbta/static/js/3.9b82f864.chunk.js.map",
+    "index.html": "/mbta/index.html",
+    "static/css/main.60166dbf.chunk.css.map": "/mbta/static/css/main.60166dbf.chunk.css.map",
+    "static/js/2.d49b35ea.chunk.js.LICENSE.txt": "/mbta/static/js/2.d49b35ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85ad2337.js",
+    "static/js/2.d49b35ea.chunk.js",
+    "static/css/main.60166dbf.chunk.css",
+    "static/js/main.86407180.chunk.js"
+  ]
+}
